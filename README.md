@@ -18,10 +18,3 @@ Default output: lines words bytes
 
 Reading from files or from standard input
 
-
-Options
-Flag	Long form	Description
--c	--byte	Print the number of bytes
--l	--line	Print the number of lines
--w	--word	Print the number of words
--m	--char	Print the number of characters
